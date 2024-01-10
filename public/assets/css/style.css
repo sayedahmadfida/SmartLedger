@@ -1,0 +1,68 @@
+.fa-angle-left{
+  width: 8px !important;
+}
+
+.treeview > a > svg{
+  margin-right: 8px;
+}
+
+.treeview-menu li svg{
+  margin-right: 5px !important;
+  margin-left: 10px;
+}
+
+.main-header .sidebar-toggle:before {
+  content: "" !important;
+}
+
+
+.dropdown-menu a >svg{
+  margin-right: 10px;
+}
+
+button, input, .btn{
+  border-radius: 0% !important;
+}
+a:hover{
+  cursor: pointer;
+}
+
+
+.tooltip-text {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  width: 100px;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  border-radius: 10px;
+  padding: 10px 15px 10px 15px;
+}
+
+.hover-text:hover .tooltip-text {
+  visibility: visible;
+}
+
+#top {
+  top: -40px;
+  left: -50%;
+}
+
+
+.hover-text {
+  position: relative;
+  display: inline-block;
+  margin: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+hr {
+  border-top: 1px solid #dbdbdb !important;
+}
+
+
+
+.chosen-container-single .chosen-single span {
+  margin-top: 4px;
+}

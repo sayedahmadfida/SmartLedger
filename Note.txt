@@ -1,0 +1,4 @@
+Update Instock Table // done
+Insert product_expenses Table // done
+Add Column('payment_id') in general_expenses Table // done
+Insert in general_expenses Table // done
